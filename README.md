@@ -725,6 +725,9 @@ This project demonstrates a robust, modular system for financial decision-making
 To run this application: - 
 - Make a .env and setup the keys.
 - Check the paths in paths.py
+- go to the folder `app`
+- Run - uvicorn main:app
+- In another terminal run - streamlit run streamlit_frontend.py
 
 ## Outputs
  ![Output 1](images/output_1.png)

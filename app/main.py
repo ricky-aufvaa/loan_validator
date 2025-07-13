@@ -3,7 +3,7 @@ from langgraph.graph import StateGraph, START, END
 from typing_extensions import TypedDict
 from langchain_core.messages import HumanMessage,AIMessage
 from langchain_google_genai import ChatGoogleGenerativeAI
-from langchain_groq import ChatGroq
+# from langchain_groq import ChatGroq
 
 
 import json
@@ -22,9 +22,9 @@ load_dotenv()
 
 # Initialize LLM (Gemini)
 google_api_key = os.getenv("GOOGLE_API_KEY")
-groq_api_key = os.getenv("GROQ_API_KEY")
-# model = ChatGoogleGenerativeAI(model="gemini-2.5-flash", api_key=google_api_key)
-model = ChatGroq(model="llama-3.1-8b-instant", api_key=groq_api_key)
+# groq_api_key = os.getenv("GROQ_API_KEY")
+model = ChatGoogleGenerativeAI(model="gemini-2.5-flash", api_key=google_api_key)
+# model = ChatGroq(model="llama-3.1-8b-instant", api_key=groq_api_key)
 
 # PRECHECKS ----------------------------
 #Initial check to ensure if faiss already exists, to faster responses.
