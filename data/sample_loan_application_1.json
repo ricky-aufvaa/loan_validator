@@ -1,0 +1,16 @@
+{
+    "loan_type": "Purchase",
+    "property_type": "Single-Family",
+    "units": 1,
+    "occupancy": "Non-Owner-Occupied",
+    "loan_amount": 750000,
+    "appraised_value": 1000000,
+    "borrower_fico_score": 760,
+    "dscr_calculated": 1.1,
+    "liquid_reserves_months": 4,
+    "borrower_type": "U.S. Citizen",
+    "property_location_state": "California",
+    "is_interest_only": false,
+    "using_short_term_rental_income": false,
+    "cash_out_amount": 0
+    }

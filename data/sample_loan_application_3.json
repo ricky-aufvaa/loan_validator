@@ -1,0 +1,17 @@
+{
+    "loan_type": "Purchase",
+    "property_type": "Townhouse",
+    "units": 1,
+    "occupancy": "Non-Owner-Occupied",
+    "loan_amount": 400000,
+    "appraised_value": 550000,
+    "borrower_fico_score": 740,
+    "dscr_calculated": 1.25,
+    "liquid_reserves_months": 6,
+    "borrower_type": "U.S. Citizen",
+    "property_location_state": "Florida",
+    "is_interest_only": false,
+    "using_short_term_rental_income": false,
+    "cash_out_amount": 0
+  }
+  

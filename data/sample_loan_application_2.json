@@ -1,0 +1,16 @@
+{
+    "loan_type": "Cash-Out Refinance",
+    "property_type": "Condominium",
+    "units": 1,
+    "occupancy": "Non-Owner-Occupied",
+    "loan_amount": 800000,
+    "appraised_value": 1000000,
+    "borrower_fico_score": 670,
+    "dscr_calculated": 0.95,
+    "liquid_reserves_months": 5,
+    "borrower_type": "Non-Permanent Resident",
+    "property_location_state": "Texas",
+    "is_interest_only": true,
+    "using_short_term_rental_income": true,
+    "cash_out_amount": 600000
+    }

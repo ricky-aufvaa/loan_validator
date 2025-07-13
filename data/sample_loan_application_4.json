@@ -1,0 +1,17 @@
+{
+    "loan_type": "Purchase",
+    "property_type": "Single-Family",
+    "units": 1,
+    "occupancy": "Non-Owner-Occupied",
+    "loan_amount": 650000,
+    "appraised_value": 800000,
+    "borrower_fico_score": 620,
+    "dscr_calculated": 1.05,
+    "liquid_reserves_months": 4,
+    "borrower_type": "Foreign National",
+    "property_location_state": "Hawaii",
+    "is_interest_only": false,
+    "using_short_term_rental_income": false,
+    "cash_out_amount": 0
+  }
+  
