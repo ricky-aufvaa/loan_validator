@@ -61,6 +61,8 @@ The system uses a **hybrid approach** combining **RAG (Retrieval-Augmented Gener
   - Natural language questions → `qna_node`
   - JSON-formatted loan applications → `loan_node`
 
+![Nodes](images/node.png)
+
 This enables intelligent routing without requiring the user to choose the mode.
 
 ### For Finance Q&A: Hybrid RAG (Semantic + Keyword Search)
